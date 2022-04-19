@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👨‍🎓 Analista de Sistemas formado pela UFMS em 2001 (véio, eu sei) a vida me levou para um mundo das empresas de Softwares ERP, especificamente da TOTVS que acabei virando especialista;
 - 🏭 Trabalho como Coordenador de TI em uma empresa de Construção Civil em Campo Grande/MS;
-- 🖥 Em 2019 resolvi tentar virar DEV e desde então venho estudando Desenvolvimento Web, com objetivo de criar APPs para acoplar aos ERPs das empresas;
+- 🖥 Em 2019 resolvi tentar virar DEV e desde então venho estudando Desenvolvimento Web.
 - ⏳ Agora em 2022 ainda estudante a Iniciante Dev.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredoej)](https://github.com/alfredoej/github-readme-stats)
