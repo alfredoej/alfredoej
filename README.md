@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 🖥 Em 2019 resolvi tentar virar DEV e desde então venho estudando Desenvolvimento Web.
 - ⏳ Agora em 2022 ainda estudante a Iniciante Dev.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredoej)](https://github.com/alfredoej/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredoej&hide=contribs,prs&count_private=true&theme=vue-dark)](https://github.com/alfredoej/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredoej&layout=compact)](https://github.com/alfredoej/github-readme-stats)
